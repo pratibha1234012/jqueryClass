@@ -1,0 +1,2 @@
+# jqueryClass
+jquery all example
